@@ -6,7 +6,7 @@
 | admin@hotmail.com | P@ssword1 | admin |
 | customer@hotmail.com | P@ssword1 | customer |
 
-The accounts are created in [here](StoreApi/Data/DataInitializer.cs)
+The accounts are created in [here](StoreAPI/Data/DataInitializer.cs)
 
 ## Swagger printscreens
 ![swagger index](images/Afbeelding1.png)
